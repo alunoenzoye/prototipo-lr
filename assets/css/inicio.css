@@ -1,0 +1,12 @@
+.inicio-container {
+    padding: var(--measure-4);
+}
+
+.inicio-title {
+    margin: var(--measure-6) 0px var(--measure-6) 0px;
+    font-size: var(--measure-8);
+}
+
+.inicio-title-desc {
+    font-size: var(--measure-5);
+}
